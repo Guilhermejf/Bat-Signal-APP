@@ -1,0 +1,2 @@
+module "*.png"
+module "*.gif"
